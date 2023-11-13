@@ -1,7 +1,7 @@
 <template>
   <div class="hello">
-    <h1>欢迎爸爸</h1>
-    <div>这是一个测试项目</div>
+    <h1>{{ $t('欢迎爸爸') }}</h1>
+    <div>{{ $t('这是一个测试项目') }}</div>
     <div>{{ test }}</div>
   </div>
 </template>
