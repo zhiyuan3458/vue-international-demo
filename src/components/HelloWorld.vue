@@ -1,6 +1,6 @@
 <template>
   <div class="hello">
-    <h1>{{ $t('欢迎爸爸') }}</h1>
+    <h1>{{ $t('小朋友') }}</h1>
     <div>{{ $t('这是一个测试项目') }}</div>
     <div>{{ test }}</div>
   </div>
